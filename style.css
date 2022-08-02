@@ -1,0 +1,19 @@
+body, html {
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  overflow: hidden;
+  background-color: grey;
+}
+
+#canbg {
+  position: absolute;
+  background-color: white;
+}
+
+#canfg {
+  position: absolute;
+}
